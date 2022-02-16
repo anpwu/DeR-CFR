@@ -4,7 +4,7 @@ This repository contains the implementation code for paper:
 
 **Learning Decomposed Representations for Treatment Effect Estimation** 
 
-Anpeng Wu, Junkun Yuan, Kun Kuang, Bo Li, Runze Wu, Qiang Zhu, Yueting Zhuang, and Fei Wu
+Anpeng Wu*, Junkun Yuan*, Kun Kuang, Bo Li, Runze Wu, Qiang Zhu, Yueting Zhuang, and Fei Wu
 
 <https://arxiv.org/abs/2006.07040>
 ## Requirements
